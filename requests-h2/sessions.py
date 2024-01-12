@@ -67,8 +67,3 @@ class Session(_Session):
             v.close()
         if self._http2adapter is not None:
             self._http2adapter.close()
-
-
-if __name__ == "__main__":
-    with Session(http2=True) as sess:
-        print(sess.get('https://www.baidu.com').version)
