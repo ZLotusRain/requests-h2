@@ -24,6 +24,7 @@ Python 3.7+
 ## Dependencies
 - requests
 - httpcore
+- urllib3<2
 
 
 ## Motivation
