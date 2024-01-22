@@ -17,6 +17,14 @@ You use it just like requests:
 'HTTP/2'
 ```
 
+## Installation
+You can install requests-h2 either via the Python Package Index (PyPI) or from source.
+
+To install using `pip`:
+
+```pip install requests-h2```
+
+
 ## Requirements
 Python 3.7+
 
