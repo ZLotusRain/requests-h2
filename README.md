@@ -9,7 +9,7 @@ requests-h2是一个支持http2的http请求库，本项目基于requests与http
 
 You use it just like requests:
 ```python
->>> import requests-h2 as requests
+>>> import requests_h2 as requests
 >>> r = requests.get('https://www.google.com', http2=True)
 >>> r.status_code
 200
