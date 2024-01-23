@@ -8,7 +8,7 @@ NAME = 'requests-h2'
 install_requires = [
     'requests', 'httpcore', 'h2', 'urllib3>1.25.11,<2'
 ]
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 
 here = os.path.abspath(os.path.dirname(__file__))
