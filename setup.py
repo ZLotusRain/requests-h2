@@ -73,7 +73,7 @@ setuptools.setup(
     author='LotusRain',
     author_email='1161525789@qq.com',
     url='https://github.com/ZLotusRain/requests-h2',
-    packages=['requests-h2'],
+    packages=['requests_h2'],
     platforms=["all"],
     license='Apache License',
     include_package_data=True,
